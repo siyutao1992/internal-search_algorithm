@@ -1,6 +1,6 @@
 # Internal-Search Algorithm for Constrained Optimization
 
-* **Purpose**: This project aims to develop an "internal-search" algorithm for solving constrained optimization problems. A test case problem of reliabitility-based design optimization (RBDO) will be solved by the developed algorithm for demonstration.
+* **Summary**: This project aims to develop an "internal-search" algorithm for solving constrained optimization problems. A test case problem of reliabitility-based design optimization (RBDO) will be solved by the developed algorithm for demonstration.
 * **Programming language**: Initially the algorithm is developed in MATLAB, but I may develop the Python version of it in the near future.
 * **File descriptions**:
   * "InterSearchFunc.m": main function of the developed algorithm
