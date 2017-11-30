@@ -23,4 +23,4 @@ The solver package is developed in Python and MATLAB. See file descriptions belo
 * "main_RBDO_case_test.m": main script for testing the optimization algorithm on an RBDO case problem.
 
 ## Flowchart of the algorithm
-![ISO algorithm flowchart](ISO_algorithm_flowchart.png)
+![ISO algorithm flowchart](./ISO_algorithm_flowchart.png)
