@@ -126,6 +126,9 @@ end
 % assemble all the results to matrix
 result_ass_mat = [x0_all, x_sol_all, f_sol_all, g_opt_all, n_iter_all, n_feval_all];
 
+%
+
+
 % save the results
 save(strcat('RBDO_test_case_result',num2str(SEED),'.mat'),...
     'SEED','x0_all', 'x_sol_all', 'g_opt_all','f_sol_all', ...
